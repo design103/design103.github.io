@@ -43,7 +43,7 @@ header > h1 {
     text-transform: uppercase;
     font-weight: 700;
     padding: 20px 20px;
-    color: white;
+    color: blue;
     font-size: 72px;
     text-align: center;
     letter-spacing: 0.15em;
@@ -55,7 +55,7 @@ header > h1 {
 span {
     display: inline-block;
     border: white solid 10px;
-    color: white;
+    color: blue;
     padding: 0.2em 0.5em;
 }
 
@@ -67,7 +67,7 @@ span {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.15em;
-    color: white;
+    color: blue;
 }
 
 nav {
@@ -83,7 +83,7 @@ nav a {
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
-    color: white;
+    color: blue;
     margin-right: 10px;
         
 }
@@ -118,7 +118,7 @@ section > div > a {
 }
 
 h3 {
-    color: teal;
+    color: blue;
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
