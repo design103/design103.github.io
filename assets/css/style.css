@@ -98,14 +98,26 @@ section {
 }
 
 .about {
-  background-color: dodgerblue;
-  opacity: 0.4;
+  /*background-color: dodgerblue;*/
+  background: url("http://i1086.photobucket.com/albums/j455/emoore7/design103/work_desk.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 450px;
   width: 100%;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 .about h3 {
   color: black;
+}
+
+.overlay {
+  position: relative;
+
+}
+
+.blue {
+  background-color: dodgerblue;
+  opacity: .4;
 }
 
 section > div > a {
@@ -149,10 +161,11 @@ video {
     font-size: 20px;
     text-align: center;
     font-weight: 300;
+    color: white;
 }
 
 .blurb > p > strong {
-    color: teal;
+    color: dodgerblue;
 }
 
 /* edit the css to suit a embed video??*/
@@ -173,10 +186,16 @@ video {
 }
 /*--------------------------------------*/
 
-.work {
-/*    background: #ccc;*/
+.how-it-works {
+    /*background: dodgerblue;*/
+    background: url("http://i1086.photobucket.com/albums/j455/emoore7/design103/how-it-works-v4-1200x500-1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     clear: both;
+    margin-top: -60px;
     height: 500px;
+    width: 1500px;
+
 /*    Temp height for display purposes */
 
 }
