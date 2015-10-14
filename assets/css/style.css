@@ -13,9 +13,9 @@ body {
 header {
     height: 470px;
     width: 100%;
-    background-size: cover;
+    background: url("http://i1086.photobucket.com/albums/j455/emoore7/design103/header.jpg");
     background-repeat: no-repeat;
-    background-image: url("https://scontent-sea1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/12038451_10206570345514602_6024963107022312392_n.jpg?oh=1e53b2ce4a5c3b277e3337cfcb2e36e9&oe=56A254FD");
+    background-size: cover;
 }
 
 .logo {
