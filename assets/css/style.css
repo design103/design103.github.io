@@ -191,7 +191,8 @@ video {
     clear: both;
     margin-top: -60px;
     height: 500px;
-    width: 1500px;
+    /*width: 1500px;*/
+    width: 100%;
 
 /*    Temp height for display purposes */
 
