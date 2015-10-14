@@ -15,7 +15,7 @@ header {
     width: 100%;
     background: url("http://i1086.photobucket.com/albums/j455/emoore7/design103/header.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
 }
 
 .logo {
